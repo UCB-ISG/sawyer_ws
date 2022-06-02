@@ -1,5 +1,12 @@
+*~
+*.bak
+*.BAK
 /.catkin_workspace
 /build/
 /devel/
 /install/
+
 /src/CMakeLists.txt
+/src/.rosinstall
+/src/.rosinstall.bak
+/.vscode/browse.vc.*
