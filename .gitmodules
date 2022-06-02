@@ -1,20 +1,20 @@
 [submodule "intera_common"]
 	path = src/intera_common
 	url = ../intera_common.git
-	branch = ucb-noetic-5.3.0
+	branch = .
 [submodule "intera_sdk"]
 	path = src/intera_sdk
 	url = ../intera_sdk.git
-	branch = ucb-noetic-5.3.0
+	branch = .
 [submodule "sawyer_moveit"]
 	path = src/sawyer_moveit
 	url = ../sawyer_moveit.git
-	branch = ucb-noetic-5.3.0
+	branch = .
 [submodule "sawyer_robot"]
 	path = src/sawyer_robot
 	url = ../sawyer_robot.git
-	branch = ucb-noetic-5.3.0
+	branch = .
 [submodule "sawyer_simulator"]
 	path = src/sawyer_simulator
 	url = ../sawyer_simulator.git
-	branch = ucb-noetic-5.3.0
+	branch = .
