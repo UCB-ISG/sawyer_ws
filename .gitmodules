@@ -18,3 +18,7 @@
 	path = src/sawyer_simulator
 	url = ../sawyer_simulator.git
 	branch = .
+[submodule "sns_ik"]
+	path = src/sns_ik
+	url = ../sns_ik.git
+	branch = .
